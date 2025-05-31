@@ -10,5 +10,6 @@ Here’s a preview of the gameplay:
 ![Six_image](https://github.com/user-attachments/assets/c2e9b1f7-476c-4bf8-b293-413d7bcaa6bb)
 ![Four_image](https://github.com/user-attachments/assets/b21c74b2-db34-4eb2-a6a1-78b42a26ec74)
 ![Out_image](https://github.com/user-attachments/assets/d56f3deb-8f32-44b4-aefa-5a51622cc093)
-![Win_page](https://github.com/user-attachments/assets/a4c1902c-01a9-446f-9fb0-98c4487cfe79)
 ![Try_again_page](https://github.com/user-attachments/assets/89cb6fbf-38ac-40df-a68f-7099be0f99e3)
+![Win_page](https://github.com/user-attachments/assets/a4c1902c-01a9-446f-9fb0-98c4487cfe79)
+
