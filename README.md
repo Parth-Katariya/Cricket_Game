@@ -3,6 +3,7 @@
 Here’s a preview of the gameplay:
 
 ![Starting_page](https://github.com/user-attachments/assets/4aed834a-32b0-4d1f-97e9-2046a87b5ba3)
+![Playing_page 3](https://github.com/user-attachments/assets/7b2f6f46-0ae8-4d75-9325-b413b9ab2d57)
 ![Plyaing_page](https://github.com/user-attachments/assets/cb217acb-fe9f-4196-8585-e15de1d1962e)
 ![Plyaing_page 1](https://github.com/user-attachments/assets/096ab500-9277-4b33-a8dd-92941e2b1259)
 ![Plyaing_page 2](https://github.com/user-attachments/assets/99d0bca8-74d9-4eee-8643-f1a1f4b2b4b6)
