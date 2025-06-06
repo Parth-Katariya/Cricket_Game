@@ -2,6 +2,7 @@
 
 Here’s a preview of the gameplay:
 
+
 ![Starting_page](https://github.com/user-attachments/assets/4aed834a-32b0-4d1f-97e9-2046a87b5ba3)
 ![Playing_page 3](https://github.com/user-attachments/assets/7b2f6f46-0ae8-4d75-9325-b413b9ab2d57)
 ![Plyaing_page](https://github.com/user-attachments/assets/cb217acb-fe9f-4196-8585-e15de1d1962e)
